@@ -1,0 +1,5 @@
+Name
+sp_setup
+sp_farm
+sp_admin
+sql_db

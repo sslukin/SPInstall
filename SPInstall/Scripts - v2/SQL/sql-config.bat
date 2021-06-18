@@ -1,0 +1,1 @@
+sqlcmd.exe -i "c:\sql-config.sql"
